@@ -5,7 +5,6 @@ Aspect-based sentiment analysis with BERT of health and well-being related conte
 * `data` folder contains preprocessed training, validation and test dataset.
 * `model.py` contains the implementation of the model.
 * `main.py` is the script that contains training, validation and testing of the model.
-* `attribution.py` analysis of the attribution scores that were produced by the model.
 
 ## References
 * [Gräßer F, Kallumadi S, Malberg H, Zaunseder S. Aspect-based sentiment analysis of drug reviews applying cross-domain and cross-data learning. In Proceedings of the 2018 International Conference on Digital Health, 23-26 April 2018 (pp. 121-125).](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
